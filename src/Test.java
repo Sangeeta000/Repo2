@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Proj 2");
 		System.out.println("2nd commit");
+		System.out.println("added branch - branch1");
 		
 
 	}
